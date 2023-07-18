@@ -40,3 +40,7 @@ Overall, an Arduino Bluetooth car provides an interactive and fun way to learn a
 * Mini Breadboard	× 1	
 * Jumper Wires Kit	× 1	
 * USB Cable Type A/B	× 1	
+
+
+# Circuit Daigram
+![Circuit daigram](https://github.com/HorridHanu/Arduino-Bluetooth-Car/assets/86579429/77a42032-35ff-4dd8-b190-97a93d9e805d)
