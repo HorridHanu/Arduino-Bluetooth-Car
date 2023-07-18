@@ -1,4 +1,4 @@
-# Arduino-Bluetooth-Car
+ # Arduino-Bluetooth-Car
 Today in this article we will talk about How to make a Bluetooth Controlled vehicle utilizing Arduino so without burning through whenever we should make the Arduino vehicle. Arduino Bluetooth control vehicle is a straightforward robot vehicle that can be constrained by your cell phone.
 
 
@@ -44,3 +44,6 @@ Overall, an Arduino Bluetooth car provides an interactive and fun way to learn a
 
 # Circuit Daigram
 ![Circuit daigram](https://github.com/HorridHanu/Arduino-Bluetooth-Car/assets/86579429/77a42032-35ff-4dd8-b190-97a93d9e805d)
+![1](https://github.com/HorridHanu/Arduino-Bluetooth-Car/assets/86579429/b41cef5b-781b-4ebb-950d-e163e2cfd427)
+![2](https://github.com/HorridHanu/Arduino-Bluetooth-Car/assets/86579429/ad158fb1-cbc5-42d2-8dd3-35b785d163cd)
+![3](https://github.com/HorridHanu/Arduino-Bluetooth-Car/assets/86579429/c776747a-6d22-4873-b4aa-5fa7ba3f8e1e)
