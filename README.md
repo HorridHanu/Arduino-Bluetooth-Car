@@ -23,3 +23,20 @@ Here's a description of the components and functionalities typically found in an
 8 Additional Features: Depending on the project's complexity, an Arduino Bluetooth car can be equipped with additional features such as obstacle detection using ultrasonic sensors, line following using infrared sensors, LED lights, sound modules, and more.
 
 Overall, an Arduino Bluetooth car provides an interactive and fun way to learn about robotics, programming, and wireless communication. It allows users to remotely control a vehicle using their smartphones or computers and can serve as a starting point for exploring more advanced robotics projects.
+
+
+# Requirments
+Arduino Uno	× 1	
+HC-05 Bluetooth Module	× 1	
+L293D Motor Drive Shield	× 1	
+TT Gear Motors	× 4	
+Wheels	× 4	
+18650 Battery Holder	× 1	
+18650 Battery	× 1	
+18650 Battery Charger	× 1	
+Car Chassis Kit (TT Gear Motors, Wheels, 18650 Battery Holder, and Car Chassis)	× 1	
+LED and Resistor Kit	× 1	
+Buzzer	× 1	
+Mini Breadboard	× 1	
+Jumper Wires Kit	× 1	
+USB Cable Type A/B	× 1	
