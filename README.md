@@ -2,7 +2,7 @@
 Today in this article we will talk about How to make a Bluetooth Controlled vehicle utilizing Arduino so without burning through whenever we should make the Arduino vehicle. Arduino Bluetooth control vehicle is a straightforward robot vehicle that can be constrained by your cell phone.
 
 
-* An Arduino Bluetooth car is a remote-controlled vehicle that utilizes an Arduino microcontroller board and Bluetooth technology to establish a wireless connection between the car and a controlling device, such as a smartphone or a computer. It combines the flexibility and programmability of Arduino with the convenience of Bluetooth communication.
+An Arduino Bluetooth car is a remote-controlled vehicle that utilizes an Arduino microcontroller board and Bluetooth technology to establish a wireless connection between the car and a controlling device, such as a smartphone or a computer. It combines the flexibility and programmability of Arduino with the convenience of Bluetooth communication.
 
 Here's a description of the components and functionalities typically found in an Arduino Bluetooth car:
 
